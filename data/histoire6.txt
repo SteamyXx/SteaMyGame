@@ -1,0 +1,12 @@
+Et c'est après un rude et long combat que vous donner le coup fatal à Imleryth.
+Bravo ! Vous venez de vaicre le démon qui était sur le point de dévaster votre monde et avez sauver l'humanité d'une mort certaine.
+\n
+Vous vous souvenez qu'au début du combat, la colère d'Imleryth était tel quelle a dégagé une puissante rafale de froid autour de vous.
+Vous craignez qu'elle ai atteind votre village et c'est pourquoi vous vous empressez d'y retourner.
+\n\n
+A votre retour, le village n'avait aucun dégat et tout le monde était heureux de vous revoir et de vous gratifier pour ce que vous avez accompli.
+Vous rentrez ensuite chez vous pour chercher un peu de repos. Sur votre lit, vous trouvez un étrange parchemin que vous empressez de lire :
+\n\n\n
+<< Merci à toi jeune aventurier. Sans toi pour vaincre ces 35 étages, le monde ne serait plus pareil.
+J'espère que tu t'es quand même amusé et que tu as pris du plaisir lors de cette aventure. Peut être à la prochaine.
+\n\n                                                                                                                                  Steamy. >>

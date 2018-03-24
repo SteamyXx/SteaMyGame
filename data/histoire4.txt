@@ -1,0 +1,11 @@
+  Vous écrivez en bas de la lettre le nom du compagnon que vous avez choisis et la remettez au petit messager.
+Vous ressentez un brin de fatigue et vous décidez donc de vous reposez un petit moment avant de repartir car, certes le temps presse et Imleryth montre de plus en plus sa colère,
+mais vous n'avez pas fait de pause depuis le début de l'expédition ! \n\n
+
+
+[...] \n\n
+
+Vous vous réveillez d'une sieste réparatrice et voila que vous entendez des bruits suspects dans les escaliers. Vous vous
+parez à l'attaque pour prendre l'ennemi par surprise lorsque vous apercevez le petit oiseau sur votre gauche. Surpris,
+vous baissez la garde et vous rendez compte que le présumé ennemi n'est autre que votre nouveau compagnon. Ravi qu'il soit enfin arrivé,
+vous ramassez vos affaires, saluez l'oiseau et vous empressez d'atteindre le prochaine étage.

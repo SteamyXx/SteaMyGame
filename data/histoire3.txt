@@ -1,0 +1,11 @@
+  En marchant dans les escaliers menant au prochaine étage, vous vous approchez d'une petite ouverture s'étant produite dans la tour.
+Vous y apercevez des nuages noirs arrivant au loin puis sentez un vent glacial parcourir tout votre corps.
+Malgré le temps apocalyptique qui s'installe, un petit oiseau arrive à se glisser dans l'ouverture et se percher devant vous.
+Il tient une lettre accrochée à sa patte que vous vous empressez de prendre et de lire : \n\n
+
+  << Cher aventurier, si vous lisez cette lettre c'est qu'aucun sbire du démon de glace ne vous résiste. Cependant la route vers la victoire
+s'annonce de plus en plus rude, c'est pourquoi j'aimerais vous faire parvenir un nouveau compagnon qui vous aidera dans cette lourde
+tâche. Écrivez en bas de cette lettre le nom de celui qui vous paraît le plus apte à vous aider, mon petit messager me rapportera votre choix.
+Que la force du Dieu Idej soit avec vous ! >> \n\n
+
+Quel nouveau compagnons souhaiteriez vous voir parmi vous ?

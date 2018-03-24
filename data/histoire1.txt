@@ -1,0 +1,7 @@
+<< Bonjour jeune aventurier, un long périple t'attend. Le démon de glace Imleryth est sur le point de se réveiller.
+Il vit au sommet de la Tour Céleste au nord de notre village, tour de 34 étages composés de 3 salles chacun et protégées par les sbires du démon de glace.
+Ton but sera, à l'aide de tes compagnons, de gravir la tour étage par étage en terrassant les ennemis se dressant sur ton chemin.
+Lorsque tu auras atteint le sommet, tu devras vaincre Imléryth avant qu'il ne détruise nos terres.
+Tu viens de finir ta formation n'est ce pas, ce qui veut dire que tu as obtenu ton premier compagnon ?
+
+\n\n  Lequel as tu choisis ? >>

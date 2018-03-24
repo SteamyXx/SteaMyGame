@@ -1,0 +1,9 @@
+  Après avoir ramassé toutes les récompenses que les sbires ont laissés derrière eux, vous vous dirigez vers l'entrée menant à l'étage supérieur.
+Cependant vous vous arrêtez devant et avez l'impression d'être observé, chose que vous aviez déjà soupçonné pendant le combat. Vous vous retournez
+rapidement et voyez un * derrière vous. Apeuré, il recule instantanément mais revient vite vers vous. N'ayant pas l'air hostile, vous vous approchez
+de lui. Il vous explique qu'il est bloqué à cet étage depuis longtemps et attend l'arrivée d'un courageux aventurier qui l'aidera à sortir de là.
+Vous comprenez qu'il veux rejoindre votre équipe pour vous aider à vaincre le démon de glace. Vous acquiescez et repartez pour le prochain étage.
+
+\n\n
+
+Bravo, un * vient de rejoindre votre équipe !
