@@ -22,7 +22,7 @@ Si vous êtes dans la capacité de modifier le code source, la compilation de l'
 II) Le lancement du jeu
 
 Pour lancer le jeu il suffit d'exécuter la commande #java -cp bin application.Application
-Ou de double-cliquer sur le raccourci (SteaMyGame.lnk)
+Ou de double-cliquer sur le raccourci (SteaMyGame.lnk).
 
 
 III) Les mécaniques du jeu
