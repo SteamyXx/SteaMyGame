@@ -176,7 +176,7 @@ public class Thebae extends Personnage {
   *@return la description du sort n°1 de Thebae
   */
   public String descriptionSort2() {
-    return "Impose ta royauté en frappant 3 fois chaque ennemi avec pour chaque attaque 50% de chance de leur appliquer un effet de marque. Les dégats augmente à mesure que les points de vie de l'ennemi baissent (cooldown = "+this.cooldown_max2+")";
+    return "Impose ta royauté en frappant 3 fois chaque ennemi avec pour chaque attaque 50% de chance de leur appliquer un effet de marque. Les dégats augmente à mesure que les points de vie de l'ennemi baissent et diminue à mesure que les votre baisse (cooldown = "+this.cooldown_max2+")";
   }
 
   /**Méthode qui permet de décrire le sort n°1 de Thebae
