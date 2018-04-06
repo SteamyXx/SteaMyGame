@@ -318,6 +318,7 @@ if (!stop && lanceur.getPdv() != 0) {
 
 
     CoGestionSorts current = this;
+    System.out.println(c2bis.getIntJoueurCourant());
 
 
     if (!stop) {
@@ -421,7 +422,7 @@ if (!stop && lanceur.getPdv() != 0) {
         });
         timer.setRepeats(false);
         timer.start();
-      } else {
+      } else {// si pas de passif
         Combat.ajouterCommentaire(" ");
         CoGestionSorts.appliquerBombe(nouveauLanceur);
         EffetTour.appliquerEffet(nouveauLanceur);
@@ -500,6 +501,7 @@ if (!stop && lanceur.getPdv() != 0) {
             c2bis.miseAJourPBA();
           }
 
+          System.out.println("joueur courant sans passif : "+c2bis.getIntJoueurCourant());
           if (c2bis.getIntJoueurCourant() > 2) {
             c2bis.setCible(0);
             Timer timer = new Timer(2000, new CoGestionSorts(c2bis));
