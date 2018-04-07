@@ -35,7 +35,7 @@ public abstract class EffetBenefique extends Effet {
     ArrayList<Effet> liste_benef = new ArrayList<Effet>();
     List<Integer> liste_i = new LinkedList<Integer>();
     for (int i = 0; i<p.getListeEffet().size(); i++) {
-      if (p.getListeEffet().get(i) instanceof EffetBenefique && !(p.getListeEffet().get(i) instanceof Bombe)) {
+      if (p.getListeEffet().get(i) instanceof EffetBenefique || (p.getListeEffet().get(i) instanceof Regeneration) && !(p.getListeEffet().get(i) instanceof Bombe)) {
         liste_benef.add(p.getListeEffet().get(i));
         liste_i.add(j);
         j++;

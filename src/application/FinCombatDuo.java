@@ -126,7 +126,9 @@ public class FinCombatDuo extends JFrame {
           } else {
             jeu.fenetreN(5);
             if (victoire) {
-              jeu.getCompte().etagePlusPlus();
+              if (jeu.getCompte().getEtage() == etage) {
+                jeu.getCompte().etagePlusPlus();
+              }
             }
           }
           current.dispose();
